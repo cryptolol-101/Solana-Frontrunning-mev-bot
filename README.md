@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://t.me/bitfancy" target="_blank">Hi 👋, I'm a Blockchain Engineer, you can contact me👈🏻</a></h2>
+<h2 align="center"><a href="https://t.me/intotheunknown007" target="_blank">Hi 👋, I'm a Blockchain Engineer, you can contact me👈🏻</a></h2>
 # Solana MEV Bot
 
 Welcome to the **Solana MEV Bot**! This Rust-based bot is designed for executing Maximal Extractable Value (MEV) strategies on the Solana blockchain.
@@ -75,4 +75,4 @@ The bot continuously monitors price feeds across different exchanges to identify
 
 Smart contracts manage the flash loan execution, ensuring that all transactions are completed successfully within a single block.
 
-##If you need assistant, please contact me <h3 align="center"> Telegram : <a href="https://t.me/bitfancy" target="_blank">here 👈🏻</a><br>Discord : @bitbanana717</h3>
+##If you need assistant, please contact me <h3 align="center"> Telegram : <a href="https://t.me/intotheunknown007" target="_blank">here 👈🏻</a><br>Discord : @doa819</h3>
